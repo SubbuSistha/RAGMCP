@@ -13,3 +13,9 @@
 - uv run python src/basic/chunk.py
 - uv run python src/basic/embedding.py
 - uv run streamlit run consumer/chatbot.py
+
+## MCP Server
+Run uv run python src/mcp/server.py
+
+## MCP Inspector
+npx @modelcontextprotocol/inspector
